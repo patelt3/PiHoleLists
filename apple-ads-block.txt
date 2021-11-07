@@ -40,4 +40,4 @@ webproxy.advp.apple.com
 # multiple known domains are covered by the definition below; also blocks other potential candidates that would use a distribution network
 webproxy-advp.iad-apple.com
 webproxy-advp.iad-apple.com.akadns.net
-iad-apple.com.*
+*.iad-apple.com.akadns.net
