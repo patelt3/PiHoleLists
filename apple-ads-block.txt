@@ -5,17 +5,17 @@
 # Information gathered from multiple adblocking forums, and Apple official SSL certificates.
 # ORIGINAL FROM https://raw.githubusercontent.com/arman68/noappleads/main/adguard-blocklist.txt
 
-advertising.apple.com^
-banners.itunes.apple.com^
-iad.apple.com^ 
-iadcontent.apple.com^
-iadctest.qwapi.com^
-iadmoo.apple.com^
-iadworkbench.apple.com^ 
-launch.apple.com^ 
-metrics.apple.com^
-qwapi.apple.com^
-securemetrics.apple.com^
+advertising.apple.com
+banners.itunes.apple.com
+iad.apple.com
+iadcontent.apple.com
+iadctest.qwapi.com
+iadmoo.apple.com
+iadworkbench.apple.com
+launch.apple.com
+metrics.apple.com
+qwapi.apple.com
+securemetrics.apple.com
 
 # multiple known subdomains are covered by the definition below
 iadsdk.apple.com^
