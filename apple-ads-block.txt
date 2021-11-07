@@ -18,26 +18,26 @@ qwapi.apple.com
 securemetrics.apple.com
 
 # multiple known subdomains are covered by the definition below
-iadsdk.apple.com^
-news.iadsdk.apple.com^
-ca.iadsdk.apple.com^ 
-cf.iadsdk.apple.com^ 
-cs.iadsdk.apple.com^ 
-su.iadsdk.apple.com^ 
-tr.iadsdk.apple.com^ 
-ut.iadsdk.apple.com^ 
+iadsdk.apple.com
+news.iadsdk.apple.com
+ca.iadsdk.apple.com
+cf.iadsdk.apple.com
+cs.iadsdk.apple.com
+su.iadsdk.apple.com
+tr.iadsdk.apple.com
+ut.iadsdk.apple.com
 
 # comscoreresearch is used for analystics for other customers than Apple, and uses several tld; this blocks them all
-comscoreresearch.*^
-apple.comscoreresearch.com^
+comscoreresearch.*
+apple.comscoreresearch.com
 
 # multiple known subdomains are covered by the definition below
-advp.apple.com^
-ls.advp.apple.com^ 
-proxy.advp.apple.com^ 
-webproxy.advp.apple.com^
+advp.apple.com
+ls.advp.apple.com
+proxy.advp.apple.com
+webproxy.advp.apple.com
 
 # multiple known domains are covered by the definition below; also blocks other potential candidates that would use a distribution network
-iad-apple.com*^
-webproxy-advp.iad-apple.com^
-webproxy-advp.iad-apple.com.akadns.net^
+iad-apple.com*
+webproxy-advp.iad-apple.com
+webproxy-advp.iad-apple.com.akadns.net
